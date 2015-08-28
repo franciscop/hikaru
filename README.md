@@ -10,9 +10,11 @@ The folder that contains this project must be called with the same name as the m
 
 Clone the project. Then change these lines:
 
-    Red.create(8);
-    Green.create(9);
-    Blue.create(7);
+```cpp
+Red.create(8);
+Green.create(9);
+Blue.create(7);
+```
 
 You have to assign here the pins that you soldered for the different colors. Then just compile and upload.
 
